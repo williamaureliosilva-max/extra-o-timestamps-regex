@@ -5,11 +5,11 @@ Este repositório contém ferramentas em Python desenvolvidas para automatizar a
 ## 🚀 Scripts Incluídos
 
 ### 1. Analisador de Padrões e Ocorrências
-*   **Ficheiro:** `analisador_padroes_ocorrencias.py`
+*   **Ficheiro:** extracao_padroes_regex.py
 *   **Função:** Identifica e conta a frequência de elementos como endereços IP, tentativas de login falhadas e utilização de portas de rede (ex: SSH/Port 22).
 
 ### 2. Extrator de Timestamps Multiformato
-*   **Ficheiro:** `extrator_timestamps_logs.py`
+*   **Ficheiro:** Regex para Extração de Timestamps e Datas.py
 *   **Função:** Reconhece e extrai marcas temporais em diversos formatos padrões da indústria, incluindo:
     *   **Linux/Syslog** (ex: Feb 10 08:23:01)
     *   **ISO 8601** (ex: 2025-02-10T08:23:01Z)
